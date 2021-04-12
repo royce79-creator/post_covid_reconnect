@@ -1,14 +1,19 @@
-h1 { 
+h1 {
     font-family: Cambria;
-color: yellowgreen}
+color: rebeccapurple}
+
+
 
 p {font-family: Cambria;
 color: red}
 
-nav {text-align: center;
+nav { text-align: center;
+    font-family: Cambria;
+color: magenta    
 }
 
-body {
-    background-color: lightblue;
-    opacity: 0.5;
-  }
+
+img { 
+    max-width: 600px;
+    height: auto;
+}
