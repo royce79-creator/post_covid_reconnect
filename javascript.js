@@ -29,6 +29,9 @@ function ask() {
 }   if (answer=="city"){
         alert("We have some great spots in the Seattle greater area to show you!");
         return; 
+}   if (answer== "") {
+    alert("Have to choose one please!")
+    ask();
 }
 }
 
